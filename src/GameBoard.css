@@ -1,0 +1,10 @@
+.gameBoard{
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.squareButton{
+    width: 200px;
+    height: 200px;
+}
