@@ -7,4 +7,10 @@
 .squareButton{
     width: 200px;
     height: 200px;
+    
+}
+.squareButton[disabled]{
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #000000;
 }
